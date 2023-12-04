@@ -26,7 +26,6 @@ https://alexanderobenauer.com/labnotes/000/
 https://arxiv.org/pdf/2308.14363.pdf
 https://link.springer.com/article/10.1007/s10270-023-01126-0
 https://asplos-conference.org/wp-content/uploads/2023/waci/5-LLaMaS.pdf
-# This is a really good round up of the most important recent 5 papers!
 https://bakztfuture.substack.com/p/5-recent-high-signal-llm-research
 https://docs.google.com/document/d/13QNqnr2QGac0Tjk0qeyn3zzPs1CXvDyNOdNKLbp4oGs/edit?usp=sharing
 https://www.linkedin.com/posts/andrewyng_the-lvm-large-vision-model-revolution-is-activity-7137483177714995200-nxlM?utm_source=share&utm_medium=member_desktop
